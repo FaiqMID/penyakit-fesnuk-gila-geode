@@ -1,7 +1,9 @@
 # PenyakitFesnukGila
 mY penyakit
 
-mfw no bindings for EditLevelLayer::onEdit aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa it would be really funny
+opens facebook instead playing or editing the level
+
+except there's no windows bindings for EditLevelLayer::onEdit nooooooooooooooooo, it would be really funny
 
 <img src="logo.png" width="150" alt="the mod's logo" />
 
