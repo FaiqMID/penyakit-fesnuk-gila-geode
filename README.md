@@ -1,7 +1,7 @@
 # PenyakitFesnukGila
 mY penyakit
 
-opens facebook instead playing or editing the level
+opens facebook instead of entering or editing the level
 
 except there's no windows bindings for EditLevelLayer::onEdit nooooooooooooooooo, it would be really funny
 
